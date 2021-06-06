@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChaseC-130
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python and Typescript
+- 💞️ I’m looking to collaborate on Typescript to Lua transpilation.
+- 📫 How to reach me chase.c.cargill@gmail.com
